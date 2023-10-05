@@ -1,0 +1,82 @@
+.navbar .container img{
+    height: 40px;
+    padding-bottom: 6px;
+}
+.mr{
+    margin-left: 200px;
+}
+
+.section{
+    height: 550px;
+    background-color: #78853F;
+}
+.section .carousel-item img{
+    padding: 30px 60px;
+    height: 630px;
+}
+.bg-w{
+    background-color: white;
+    margin-left: 6px;
+}
+.bg-y{
+    background-color: yellow;
+}
+.bg-w, .bg-y{
+    height: 35px;
+    width: 120px;
+    border: none;
+}
+.section .cerousel-caption, h4{
+    color: yellow;
+}
+.section .cerousel-caption, h1{
+font-weight: bold;
+}
+.section .cerousel-caption, p{
+    font-size: smaller;
+}
+.box{
+    margin-top: 50px;
+    background-color: aqua;
+    display: flex;
+}
+.box .container{
+    padding: 5%;
+}
+.col{
+    display: flex;
+    padding: 5%;
+    gap: 25px;
+}
+
+
+
+
+
+
+
+
+/* .bg .imase-1{
+    position: relative;
+}
+.bg .text{
+    width: 430px;
+    position: absolute;
+    
+} */
+
+
+
+/* .dvi-1{
+    display: flex;
+}
+.half-width{
+    display: flex;
+    gap: 30px;
+}
+.box-div .container{
+    padding-top: 6rem;
+} */
+/* .navigation{
+    display: flex;
+} */
