@@ -7,7 +7,7 @@
 }
 
 
-/** section start **/
+/* section start */
 .section{
     height: 550px;
     background-color: #78853F;
@@ -45,88 +45,31 @@ font-weight: bold;
     width: 10px;
     border-radius: 50%;
 }
-/** section end **/
-
-
-
-/* box div  start*/
-
+/* banner section start*/
 .col-row{
     display: flex;
-    background-color: aqua;
-    margin-top: 50px;
-    padding: 60px;
-}
-.col-row h4{
-   
+    padding: 120px;
 }
 .row{
     display: flex;
 }
+.col-row .mt-4{
+    gap: 20px;
+}
+/* banner section end*/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .box{
-    margin-top: 50px;
-    background-color: aqua;
+/* bg-img section start */
+.bg-img{
     display: flex;
 }
-.box .container{
-    padding: 5%;
+.bg-img .text{
+    background-color: #F7F7F7;
+    padding-top: 130px;
 }
-.col{
-    display: flex;
-    padding: 5%;
-    gap: 25px;
-    background-color: #78853F;
-} */
-
-/* box div  end*/
-
-/**  **/
-
-
-
-
-
-
-
-
-
-
-/* .bg .imase-1{
-    position: relative;
+.bg-img .text button{
+    border: none;
+    background-color: yellow;
+    height: 40px;
+    width: 130px;
 }
-.bg .text{
-    width: 430px;
-    position: absolute;
-    
-} */
-
-
-
-/* .dvi-1{
-    display: flex;
-}
-.half-width{
-    display: flex;
-    gap: 30px;
-}
-.box-div .container{
-    padding-top: 6rem;
-} */
-/* .navigation{
-    display: flex;
-} */
+/* bg-img section start */
