@@ -7,7 +7,7 @@
 }
 
 
-/* section start */
+/* carousel section start */
 .section{
     height: 550px;
     background-color: #78853F;
@@ -31,7 +31,7 @@
     width: 120px;
     border: none;
 }
-.section h4{
+.section .content h4{
     color: yellow;
 }
 .section .cerousel-caption, h1{
@@ -45,10 +45,13 @@ font-weight: bold;
     width: 10px;
     border-radius: 50%;
 }
+/* carousel section end */
+
+
 /* banner section start*/
 .col-row{
     display: flex;
-    padding: 120px;
+    padding: 120px 120px 60px 120px;
 }
 .row{
     display: flex;
@@ -58,10 +61,12 @@ font-weight: bold;
 }
 /* banner section end*/
 
+
 /* bg-img section start */
 .bg-img{
     display: flex;
 }
+
 .bg-img .text{
     background-color: #F7F7F7;
     padding-top: 130px;
@@ -73,3 +78,8 @@ font-weight: bold;
     width: 130px;
 }
 /* bg-img section start */
+
+
+/**  **/
+
+/**  **/
